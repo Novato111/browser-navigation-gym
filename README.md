@@ -6,7 +6,8 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green.svg)](https://fastapi.tiangolo.com/)
 
 > **A Reinforcement Learning (RL) Environment designed to train and benchmark "Computer Use" agents on web interaction tasks.**
-> https://github.com/user-attachments/assets/6ab5d916-f77d-42f8-8145-119eba0279e4
+> <video src="https://github.com/user-attachments/assets/6ab5d916-f77d-42f8-8145-119eba0279e4" controls="controls" style="max-width: 100%;">
+> </video>
 
 ## 🎥 Demo
 
